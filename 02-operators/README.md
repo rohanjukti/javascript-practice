@@ -8,11 +8,11 @@ Operators are symbols used to perform operations on variables and values.
 
 Used to perform mathematical operations.
 
-+  → Addition  
--  → Subtraction  
-*  → Multiplication  
-/  → Division  
-%  → Modulus (Remainder)  
++   Addition  
+-   Subtraction  
+*   Multiplication  
+/   Division  
+%   Modulus (Remainder)  
 
 Example:
 
@@ -31,12 +31,12 @@ a % b   // 0
 
 Used to assign values to variables.
 
-=   → Assign  
-+=  → Add and assign  
--=  → Subtract and assign  
-*=  → Multiply and assign  
-/=  → Divide and assign  
-%=  → Modulus and assign  
+=    Assign  
++=   Add and assign  
+-=   Subtract and assign  
+*=   Multiply and assign  
+/=   Divide and assign  
+%=   Modulus and assign  
 
 Example:
 
@@ -52,14 +52,14 @@ x -= 3;   // 12
 Used to compare two values.
 They return true or false.
 
-==   → Equal (value only)  
-===  → Strict Equal (value + type)  
-!=   → Not Equal  
-!==  → Strict Not Equal  
->    → Greater than  
-<    → Less than  
->=   → Greater than or equal  
-<=   → Less than or equal  
+==    Equal (value only)  
+===   Strict Equal (value + type)  
+!=    Not Equal  
+!==   Strict Not Equal  
+>     Greater than  
+<     Less than  
+>=    Greater than or equal  
+<=    Less than or equal  
 
 Example:
 
@@ -72,9 +72,9 @@ Example:
 
 Used to combine multiple conditions.
 
-&&  → AND (both conditions must be true)  
-||  → OR (at least one must be true)  
-!   → NOT (reverses boolean value)
+&&   AND (both conditions must be true)  
+||   OR (at least one must be true)  
+!    NOT (reverses boolean value)
 
 Example:
 
