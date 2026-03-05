@@ -75,6 +75,7 @@ Used to combine multiple conditions.
 &&   AND (both conditions must be true)  
 ||   OR (at least one must be true)  
 !    NOT (reverses boolean value)
+??   nulish (returns the second value if the first value is null or undefined)
 
 Example:
 
